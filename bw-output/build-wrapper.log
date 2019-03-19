@@ -1,0 +1,70 @@
+Tue Mar 19 17:28:04 2019: build-wrapper, version 6.1 (macosx-x86)
+Tue Mar 19 17:28:04 2019: System name: Darwin Nodename: Matthews-MacBook-Pro.local Release: 17.7.0 Version: Darwin Kernel Version 17.7.0: Thu Dec 20 21:47:19 PST 2018; root:xnu-4570.71.22~1/RELEASE_X86_64 Machine: x86_64
+Tue Mar 19 17:28:04 2019: socket path: /tmp/build-wrapper-socket.TlSWj9
+Tue Mar 19 17:28:04 2019: dynamic library found: /Users/matthewhamilton/Dev/build-wrapper-macosx-x86/libinterceptor.dylib
+Tue Mar 19 17:28:04 2019: command executed as: <build-wrapper-macosx-x86>
+Tue Mar 19 17:28:04 2019: command line received: <make clean all>
+Tue Mar 19 17:28:04 2019: env 0: <rvm_bin_path=/Users/matthewhamilton/.rvm/bin>
+Tue Mar 19 17:28:04 2019: env 1: <TERM_PROGRAM=Apple_Terminal>
+Tue Mar 19 17:28:04 2019: env 2: <GEM_HOME=/Users/matthewhamilton/.rvm/gems/ruby-2.5.1>
+Tue Mar 19 17:28:04 2019: env 3: <SHELL=/bin/bash>
+Tue Mar 19 17:28:04 2019: env 4: <TERM=xterm-256color>
+Tue Mar 19 17:28:04 2019: env 5: <IRBRC=/Users/matthewhamilton/.rvm/rubies/ruby-2.5.1/.irbrc>
+Tue Mar 19 17:28:04 2019: env 6: <TMPDIR=/var/folders/l1/2rschx2x6dqcpjv3bnhv4z9r0000gn/T/>
+Tue Mar 19 17:28:04 2019: env 7: <Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.XM3oWg2OM1/Render>
+Tue Mar 19 17:28:04 2019: env 8: <TERM_PROGRAM_VERSION=404.1>
+Tue Mar 19 17:28:04 2019: env 9: <OLDPWD=/Users/matthewhamilton/PersonalProjects>
+Tue Mar 19 17:28:04 2019: env 10: <MY_RUBY_HOME=/Users/matthewhamilton/.rvm/rubies/ruby-2.5.1>
+Tue Mar 19 17:28:04 2019: env 11: <TERM_SESSION_ID=100543A2-294C-4EF4-B530-1F9260A7C22C>
+Tue Mar 19 17:28:04 2019: env 12: <USER=matthewhamilton>
+Tue Mar 19 17:28:04 2019: env 13: <_system_type=Darwin>
+Tue Mar 19 17:28:04 2019: env 14: <rvm_path=/Users/matthewhamilton/.rvm>
+Tue Mar 19 17:28:04 2019: env 15: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.st2Zuy46hT/Listeners>
+Tue Mar 19 17:28:04 2019: env 16: <rvm_prefix=/Users/matthewhamilton>
+Tue Mar 19 17:28:04 2019: env 17: <PATH=/Users/matthewhamilton/flutter/bin:/Users/matthewhamilton/.rvm/gems/ruby-2.5.1/bin:/Users/matthewhamilton/.rvm/gems/ruby-2.5.1@global/bin:/Users/matthewhamilton/.rvm/rubies/ruby-2.5.1/bin:/Users/matthewhamilton/Users/matthewhamilton/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/matthewhamilton/Dev/sonar-scanner-3.3.0.1492-macosx/bin:/Users/matthewhamilton/Dev/build-wrapper-macosx-x86:/Applications/VMware Fusion.app/Contents/Public:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/matthewhamilton/.rvm/bin>
+Tue Mar 19 17:28:04 2019: env 18: <PWD=/Users/matthewhamilton/PersonalProjects/SonarQubeObjCTest>
+Tue Mar 19 17:28:04 2019: env 19: <LANG=en_US.UTF-8>
+Tue Mar 19 17:28:04 2019: env 20: <_system_arch=x86_64>
+Tue Mar 19 17:28:04 2019: env 21: <XPC_FLAGS=0x0>
+Tue Mar 19 17:28:04 2019: env 22: <_system_version=10.13>
+Tue Mar 19 17:28:04 2019: env 23: <XPC_SERVICE_NAME=0>
+Tue Mar 19 17:28:04 2019: env 24: <rvm_version=1.29.4 (latest)>
+Tue Mar 19 17:28:04 2019: env 25: <SHLVL=1>
+Tue Mar 19 17:28:04 2019: env 26: <HOME=/Users/matthewhamilton>
+Tue Mar 19 17:28:04 2019: env 27: <LOGNAME=matthewhamilton>
+Tue Mar 19 17:28:04 2019: env 28: <GEM_PATH=/Users/matthewhamilton/.rvm/gems/ruby-2.5.1:/Users/matthewhamilton/.rvm/gems/ruby-2.5.1@global>
+Tue Mar 19 17:28:04 2019: env 29: <DISPLAY=/private/tmp/com.apple.launchd.wZVJ1hDTeL/org.macosforge.xquartz:0>
+Tue Mar 19 17:28:04 2019: env 30: <RUBY_VERSION=ruby-2.5.1>
+Tue Mar 19 17:28:04 2019: env 31: <_system_name=OSX>
+Tue Mar 19 17:28:04 2019: env 32: <_=/Users/matthewhamilton/Dev/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue Mar 19 17:28:04 2019: executing: <make clean all>
+Tue Mar 19 17:28:04 2019: initializing json file
+Tue Mar 19 17:28:04 2019: process created with pid: 16485
+Tue Mar 19 17:28:04 2019: parent pid: 16484
+Tue Mar 19 17:28:04 2019: working directory: </Users/matthewhamilton/PersonalProjects/SonarQubeObjCTest>
+Tue Mar 19 17:28:04 2019: executable: </Users/matthewhamilton/Dev/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue Mar 19 17:28:04 2019: argv[0]: <build-wrapper-macosx-x86>
+Tue Mar 19 17:28:04 2019: argv[1]: <-c>
+Tue Mar 19 17:28:04 2019: argv[2]: <>
+Tue Mar 19 17:28:04 2019: argv[3]: <make>
+Tue Mar 19 17:28:04 2019: argv[4]: <clean>
+Tue Mar 19 17:28:04 2019: argv[5]: <all>
+Tue Mar 19 17:28:04 2019: skipping process with pid: 16485
+Tue Mar 19 17:28:04 2019: process created with pid: 16486
+Tue Mar 19 17:28:04 2019: parent pid: 16485
+Tue Mar 19 17:28:04 2019: working directory: </Users/matthewhamilton/PersonalProjects/SonarQubeObjCTest>
+Tue Mar 19 17:28:04 2019: executable: </private/tmp/sonarsource-build-wrapper-cache-501/usr/bin/make>
+Tue Mar 19 17:28:04 2019: argv[0]: <make>
+Tue Mar 19 17:28:04 2019: argv[1]: <clean>
+Tue Mar 19 17:28:04 2019: argv[2]: <all>
+Tue Mar 19 17:28:04 2019: skipping process with pid: 16486
+Tue Mar 19 17:28:04 2019: process created with pid: 16486
+Tue Mar 19 17:28:04 2019: parent pid: 16485
+Tue Mar 19 17:28:04 2019: working directory: </Users/matthewhamilton/PersonalProjects/SonarQubeObjCTest>
+Tue Mar 19 17:28:04 2019: executable: </Applications/Xcode.app/Contents/Developer/usr/bin/make>
+Tue Mar 19 17:28:04 2019: argv[0]: </Applications/Xcode.app/Contents/Developer/usr/bin/make>
+Tue Mar 19 17:28:04 2019: argv[1]: <clean>
+Tue Mar 19 17:28:04 2019: argv[2]: <all>
+Tue Mar 19 17:28:04 2019: skipping process with pid: 16486
+Tue Mar 19 17:28:04 2019: finalizing json file
+Tue Mar 19 17:28:04 2019: returned with code: 2

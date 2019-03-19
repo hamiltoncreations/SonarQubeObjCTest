@@ -19,5 +19,11 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (void)matthewsUselessMethod {
+    int doingNothing = 5;
+    int alsoNotReallyAnythingAtAllButAReallyLongName = 2;
+    
+    
+}
 
 @end

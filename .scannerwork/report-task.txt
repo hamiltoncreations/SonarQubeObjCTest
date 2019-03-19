@@ -1,0 +1,7 @@
+organization=hamiltoncreations-github
+projectKey=hamiltoncreations_SonarQubeObjCTest
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.22792
+dashboardUrl=https://sonarcloud.io/dashboard?id=hamiltoncreations_SonarQubeObjCTest
+ceTaskId=AWmX30-hjwiscBO3mDoM
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWmX30-hjwiscBO3mDoM
